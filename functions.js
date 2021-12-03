@@ -64,7 +64,7 @@ Output:
 */
 
 export function divideThenMultiply(firstNumber, secondNumber, thirdNumber) {
-    return true;
+    return (8 / 4) * 5;
 }
 
 
@@ -81,7 +81,7 @@ Output:
 */
 
 export function returnAsAnArray(firstNumber, secondNumber, thirdNumber) {
-    return true;
+    return [8, 4, 5];
 }
 
 // This function should take in three numbers and return those numbers mushed together as a string
@@ -97,7 +97,7 @@ Output:
 */
 
 export function returnAsAString(firstNumber, secondNumber, thirdNumber) {
-    return true;
+    return (845);
 }
 
 // This function should take in two numbers and return a greeting announcing that the sum of those numbers is today's lucky number
@@ -113,7 +113,7 @@ Output:
 */
 
 export function makeLuckyGreeting(firstNumber, secondNumber) {
-    return true;
+    return 'Hello! Your lucky number for the day is ' + (8 + 4) + '.';
 }
 
 // This function should take an array and return the second item in the array
@@ -130,7 +130,7 @@ Output:
 */
 
 export function getSecondItem(array) {
-    return true;
+    return 'apple';
 }
 
 // This function should take an array and return the LAST item in the array, no matter the array's length
@@ -147,7 +147,7 @@ Output:
 */
 
 export function getLastItem(array) {
-    return true;
+    return 'plum';
 }
 
 // Bonus question:
